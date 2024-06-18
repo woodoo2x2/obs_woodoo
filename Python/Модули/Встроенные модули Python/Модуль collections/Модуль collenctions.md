@@ -1,0 +1,8 @@
+1. [[Тип данных collections.namedtuple]]
+2. [[Тип данных collections.Counter]]
+3. [[!Тип данных collections.defaultdict]]
+4. [[Тип данных collections.OrderedDict]]
+5. [[Тип данных collections.ChainMap]]
+6. [[Тип данных collections.deque]]
+7. [[UserDict]]
+8. [[UserList]]

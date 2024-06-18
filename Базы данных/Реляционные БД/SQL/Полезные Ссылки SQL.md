@@ -1,0 +1,4 @@
+1.  С краткой историей создания языка SQL можно ознакомиться по [ссылке](https://ru.wikipedia.org/wiki/SQL#%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F).
+2. Подробнее о подмножествах SQL можно почитать по [ссылке](https://info-comp.ru/what-is-ddl-dml-dcl-tcl) и [ссылке](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/).
+3. Типы данных `VARCHAR` и `TEXT` кажутся похожими, как и типы `DATETIME` и `TIMESTAMP`, но у них есть свои различия. Ознакомиться с ними можно по [ссылке](https://andreyex.ru/bazy-dannyx/mariadb/raznitsa-mezhdu-varchar-i-text-v-mysql/)
+4. 

@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "32d806a43174574f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0943d7fcf6278598",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d09dc655bb00a6d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тип данных str.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "13d090e3a21b5173"
+          }
+        ]
+      },
+      {
+        "id": "7d0fd308b9aebe99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b028e7f7ea5cd43e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тип данных str.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "13d090e3a21b5173"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2ac7f582cc49093",
+    "type": "split",
+    "children": [
+      {
+        "id": "a86e5d8c0cee1024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edc22d7d2dad147f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d009d364e956582d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sort",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1dcfabc13711cc3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "915635a9c25455c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "adcd7dc032b1d324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a99113f98db46a79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Тип данных str.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a025c504768cbec6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Тип данных str.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52830c0bc8262457",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f70424903dbd415c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Тип данных str.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d09dc655bb00a6d7",
+  "lastOpenFiles": [
+    "OrderedDict/Метод OrderedDict/Метод move_to_end().md",
+    "Lists/Методы Списков/Метод sort()(list).md",
+    "Тип данных collections.deque.md",
+    "deque/Полезные ссылки deque.md",
+    "deque/deque.md",
+    "Untitled.md",
+    "deque",
+    "Типы данных.md",
+    "Тип данных tuple.md",
+    "!Тип данных collections.defaultdict.md",
+    "Тип данных collections.ChainMap.md",
+    "Chainmap/Полезные ссылки ChainMaps.md",
+    "Chainmap/Метод new_child() (ChainMap).md",
+    "Chainmap/ChainMap.md",
+    "Chainmap/Сравнение ChainMap.md",
+    "Chainmap/Атрибут parents (ChainMap).md",
+    "Chainmap/Атрибут maps (ChainMap).md",
+    "Chainmap/Создание ChainMap.md",
+    "Тип данных collections.Counter.md",
+    "Тип данных collections.OrderedDict.md",
+    "Тип данных collections.namedtuple.md",
+    "Chainmap/Untitled",
+    "Chainmap/Изменение данных в ChainMap объекте.md",
+    "Chainmap/Итерирование по ChainMap объекту.md",
+    "Chainmap/Доступ к элементам ChainMap объекта.md",
+    "Dictionary/Методы словарей/Метод items()(dict).md",
+    "Dictionary/Методы словарей/Метод pop() (dict).md",
+    "Chainmap",
+    "Set/Методы множеств/Метод update()(set).md",
+    "OrderedDict/Метод OrderedDict",
+    "OrderedDict",
+    "defaultdict",
+    "Counter/Методы Counter/Untitled",
+    "Counter/Методы Counter",
+    "Counter",
+    "namedtuple/Методы namedtuple"
+  ]
+}

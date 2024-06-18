@@ -1,0 +1,1 @@
+Официальная документация модуля `contextlib` доступна по [ссылке](https://docs.python.org/3/library/contextlib.html).

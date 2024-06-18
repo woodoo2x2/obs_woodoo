@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "f8d9e2eac20b55cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7941cbfb956f9121",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a24df5ecda4bce8e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c31f54e6466dd52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "check.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c98828850de9aab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf409e80924209a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de01fb854243297",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80044b3f55a1cea3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e4aa222becfee8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc6e01e7b1a8d568",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5
+  },
+  "right": {
+    "id": "23f2b6570727726b",
+    "type": "split",
+    "children": [
+      {
+        "id": "01d372cb5a6aeb88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fbae3dc54757204",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "check.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "36cb22eefdbfc8c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "check.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b7d8ad298469bfa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "check.md"
+              }
+            }
+          },
+          {
+            "id": "e7a0fef79b747478",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "1c31f54e6466dd52",
+  "lastOpenFiles": [
+    "check.md",
+    "Python.md",
+    "Юникод.md",
+    "Базы данных.md",
+    "АТОЛ подключение Python.md",
+    "Не распределено/My code/Мини-проекты/Генератор пароля.md",
+    "Не распределено/My code/Мини-проекты/Шифр Цезаря.md",
+    "Не распределено/Умные Мужики/Франсуа-Жозеф Сервуа.md",
+    "Не распределено/Умные Мужики/Эдгар Кодд.md",
+    "Не распределено/Умные Мужики/Хоар, Чарльз Энтони Ричард.md",
+    "Не распределено/Умные Мужики/Кэй, Алан Кёртис.md",
+    "Не распределено/Умные Мужики/Кантор, Георг.md",
+    "Не распределено/Умные Мужики/Джордж Буль.md",
+    "Не распределено/My code/Мини-проекты",
+    "Не распределено/Умные Мужики",
+    "Не распределено/Метод Монте-Карло.md",
+    "Не распределено/Авария ракеты-носителя «Ариан-5».md",
+    "Не распределено/My code",
+    "Не распределено/Smalltalk.md",
+    "Не распределено",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Числовые Функции SQL/Числовые функции SQL.md",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Числовые Функции SQL/Функция SQRT().md",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Числовые Функции SQL/Функция ROUND() SQL.md",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Числовые Функции SQL/Функция RAND() SQL.md",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Числовые Функции SQL/Функция POW() SQL.md",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Числовые Функции SQL/Функция FORMAT() SQL.md",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Числовые Функции SQL/Функция CONV().md",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Числовые Функции SQL/Функция ABS() SQL.md",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Числовые Функции SQL/Функции PI(), SIN(), COS() и TAN().md",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Числовые Функции SQL/Функции LEAST() и GREATEST().md",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Числовые Функции SQL",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Функции даты и времени",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Строковые Функции SQL",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Дополнительные функции",
+    "Базы данных/Реляционные БД/SQL/Функции SQL/Агрегатные Функции SQL",
+    "Базы данных/Реляционные БД/SQL/Функции SQL",
+    "Базы данных/Реляционные БД/SQL/Без названия.canvas"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "56ad5a2cc7697744",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9ee414d0c795e5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ff82132d25f5b3e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36802e0ad6e120aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b76e4e28e74a3a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eeef31523f832dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44e9a2f23a780657",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c893bee504d63fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a16004cc0780cdb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a83da340f8493f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eae8c7acd2a0fa5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcf1fe263c0a3eea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f2f6b7da0242b24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5e9e429c4bc2b8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3ff82132d25f5b3e",
+  "lastOpenFiles": [
+    "Func/!Встроенные функции map(), filter(), reduce().md",
+    "Func/Функции.md",
+    "Встроенные Функции/Функция reduce().md",
+    "Встроенные Функции/Функция filter().md",
+    "Функция round().md",
+    "Встроенные Функции/Функция map().md",
+    "Func/аннотации типов.md",
+    "Встроенные Функции/Фунцкия list().md",
+    "Встроенные Функции/Встроенные функции.md",
+    "Встроенные Функции/Функция float().md",
+    "Func/Функции высшего порядка.md",
+    "Func/!Функции как объекты.md",
+    "Func/Замыкания.md",
+    "Встроенные Функции/Функция type().md",
+    "Func/Функция (func).md",
+    "Func/Функции с параметрами.md",
+    "Func/Встроенные функции.md",
+    "Func/Вложенные функции.md",
+    "Func/Парадигмы программирования.md",
+    "Func/Позиционные и именованные аргументы.md",
+    "Python/Функции/Func/Встроенные функции.md",
+    "Рекурсия/Решение задач на рекурсию.md",
+    "Рекурсия/Рекурсивный обход коллекций.md",
+    "Рекурсия/Введение в рекурсию.md",
+    "Рекурсия",
+    "Func/функции с переменным количеством аргументов.md",
+    "Python/Функции/Func",
+    "Python/Функции",
+    "Python",
+    "Func/Полезные ссылки Функции.md",
+    "Func/Базовые понятия"
+  ]
+}
