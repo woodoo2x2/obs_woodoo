@@ -13,31 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базы данных/Реляционные БД/SQL/SQL.md",
+                "file": "GIT/Работа с GitHub.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "fbccf1fb7bd0000c"
+            "group": "5bf3695b2534966a"
           }
         ]
       },
       {
-        "id": "a722348c1e5a702b",
+        "id": "bfc2630665830d0c",
         "type": "tabs",
         "children": [
           {
-            "id": "7486941834ec0b94",
+            "id": "ffa715aa02912f44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базы данных/Реляционные БД/SQL/SQL.md",
-                "mode": "source",
-                "source": true
+                "file": "GIT/Работа с GitHub.md",
+                "mode": "preview",
+                "source": false
               }
             },
-            "group": "fbccf1fb7bd0000c"
+            "group": "5bf3695b2534966a"
           }
         ]
       }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базы данных/Реляционные БД/SQL/SQL.md",
+                "file": "GIT/Работа с GitHub.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базы данных/Реляционные БД/SQL/SQL.md",
+                "file": "GIT/Работа с GitHub.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базы данных/Реляционные БД/SQL/SQL.md"
+                "file": "GIT/Работа с GitHub.md"
               }
             }
           },
@@ -176,9 +176,11 @@
   },
   "active": "a24df5ecda4bce8e",
   "lastOpenFiles": [
+    "GIT/GIT.md",
+    "GIT/Основные команды GIT.md",
+    "Базы данных/Реляционные БД/SQL/SQL.md",
     "Базы данных/Реляционные БД/SQL/Триггеры/Обобщенные табличные выражения/Оператор WITH и CTE.md",
     "Базы данных/Реляционные БД/SQL/Триггеры/Обобщенные табличные выражения/Обобщенные табличные выражения.md",
-    "Базы данных/Реляционные БД/SQL/SQL.md",
     "Базы данных/Реляционные БД/SQL/Триггеры/Обобщенные табличные выражения",
     "Базы данных/Реляционные БД/SQL/Триггеры/Представления.md",
     "Базы данных/Реляционные БД/SQL/Триггеры/Триггеры.md",
@@ -204,8 +206,6 @@
     "Python.md",
     "Базы данных.md",
     "АТОЛ подключение Python.md",
-    "Юникод.md",
-    "test_git.md",
     "Не распределено/My code/Мини-проекты",
     "Не распределено/Умные Мужики",
     "Не распределено/My code",
