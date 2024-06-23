@@ -195,3 +195,5 @@ WINDOW salary_desc_part_by_department AS (PARTITION BY department ORDER BY salar
 ```
 
 Если определение окна включает как секционирование, так и упорядочивание, то оператор `PARTITION BY` должен располагаться до оператора `ORDER BY`.
+
+#sql 
