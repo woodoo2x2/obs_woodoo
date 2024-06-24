@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Функции SQL/Оконные функции/ранжирующие функции/Ранжирующие функции.md",
+                "file": "SQL/Функции SQL/Дополнительные функции/Функция COALESCE().md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Функции SQL/Оконные функции/ранжирующие функции/Ранжирующие функции.md",
+                "file": "SQL/Функции SQL/Дополнительные функции/Функция COALESCE().md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "COAL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Функции SQL/Оконные функции/ранжирующие функции/Ранжирующие функции.md",
+                "file": "SQL/Функции SQL/Дополнительные функции/Функция COALESCE().md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Функции SQL/Оконные функции/ранжирующие функции/Ранжирующие функции.md",
+                "file": "SQL/Функции SQL/Дополнительные функции/Функция COALESCE().md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Функции SQL/Оконные функции/ранжирующие функции/Ранжирующие функции.md"
+                "file": "SQL/Функции SQL/Дополнительные функции/Функция COALESCE().md"
               }
             }
           },
@@ -176,10 +177,11 @@
   },
   "active": "a24df5ecda4bce8e",
   "lastOpenFiles": [
+    "SQL/Функции SQL/Дополнительные функции/Дополнительные функции.md",
+    "SQL/Функции SQL/Оконные функции/ранжирующие функции/Ранжирующие функции.md",
     "SQL/Функции SQL/Оконные функции/ранжирующие функции/Функция ROW_NUMBER.md",
     "SQL/Функции SQL/Оконные функции/ранжирующие функции/Функция NTILE().md",
     "SQL/Функции SQL/Оконные функции/ранжирующие функции/Функции DENSE_RANK() и RANK().md",
-    "SQL/Функции SQL/Оконные функции/ранжирующие функции/Ранжирующие функции.md",
     "SQL/Функции SQL/Оконные функции/Оконные функции.md",
     "SQL/Функции SQL/Оконные функции/ранжирующие функции",
     "SQL/Функции SQL/Оконные функции/Оконные функции и Оператор WINDOW.md",
@@ -202,7 +204,6 @@
     "SQL/Процедуры",
     "SQL/Пользовательские Функции/Пользовательские Функции SQl.md",
     "SQL/Функции SQL/Дополнительные функции/Функция COALESCE().md",
-    "SQL/Функции SQL/Дополнительные функции/Дополнительные функции.md",
     "SQL/Пользовательские Функции/Циклы SQL.md",
     "SQL/Пользовательские Функции/Условная конструкция IF-ELSEIF-ELSE.md",
     "SQL/Пользовательские Функции/Цикл WHILE SQL.md",
