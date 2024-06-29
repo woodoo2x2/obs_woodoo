@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль requests/Заголовки headers=.md",
+                "file": "Python/Модули/Сторонние модули Python/Модуль requests/Модуль requests.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль requests/Заголовки headers=.md",
+                "file": "Python/Модули/Сторонние модули Python/Модуль requests/Модуль requests.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль requests/Заголовки headers=.md",
+                "file": "Python/Модули/Сторонние модули Python/Модуль requests/Модуль requests.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль requests/Заголовки headers=.md"
+                "file": "Python/Модули/Сторонние модули Python/Модуль requests/Модуль requests.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "ffa715aa02912f44",
   "lastOpenFiles": [
+    "Python/Модули/Сторонние модули Python/Модуль requests/Таймаут timeout.md",
+    "Python/Модули/Сторонние модули Python/Модуль requests/Заголовки headers.md",
     "Python/Модули/Сторонние модули Python/Модуль requests/Модуль requests.md",
-    "Python/Модули/Сторонние модули Python/Модуль requests/Заголовки headers=.md",
     "Python/Модули/Сторонние модули Python/Модуль requests/request.get().md",
     "Python/Модули/Сторонние модули Python/Модуль requests/requests.md",
     "Python/Модули/Сторонние модули Python/Модуль requests/Атрибуты объекта Response.md",
@@ -185,7 +186,6 @@
     "Python/Модули/Встроенные модули Python/Модуль contextlib/Полезные ссылки contexlib.md",
     "SQL/Cоздание вычисляемых полей/Выполнение математических вычислений.md",
     "SQL/Cоздание вычисляемых полей/Вычисляемые поля.md",
-    "SQL/Cоздание вычисляемых полей/Функция CONCAT() (Объединение значений полей).md",
     "SQL/Функции SQL/Оконные функции/Функции смещения",
     "SQL/Функции SQL/Оконные функции/ранжирующие функции",
     "SQL/Функции SQL/Оконные функции",

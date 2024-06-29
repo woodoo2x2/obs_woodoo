@@ -1,8 +1,8 @@
 [[requests]]
 [[request.get()]]
 [[Атрибуты объекта Response]]
-[[Заголовки headers=]]
-
+[[Заголовки headers]]
+[[Таймаут timeout]]
 
 
 #ПарсингPython 
