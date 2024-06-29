@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 14352164
       }
+    },
+    {
+      "query": "#ПарсингPython",
+      "color": {
+        "a": 1,
+        "rgb": 6443744
+      }
+    },
+    {
+      "query": "#Python",
+      "color": {
+        "a": 1,
+        "rgb": 14540831
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +53,6 @@
   "repelStrength": 14.7401247401247,
   "linkStrength": 1,
   "linkDistance": 109,
-  "scale": 0.042315902689761015,
+  "scale": 0.08317427835927968,
   "close": false
 }
