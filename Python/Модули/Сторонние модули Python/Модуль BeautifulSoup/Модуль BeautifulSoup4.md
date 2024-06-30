@@ -3,5 +3,6 @@
 [[Преобразование HTML в объект BeautifulSoup]]
 [[Парсинг HTML страницы]]
 [[Объект Tag bs4]]
+[[Методы BeautifulSoup4]]
 
 #ПарсингPython #Python 

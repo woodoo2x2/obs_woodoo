@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Типы данных/Strings/Методы Строк/Метод partition()(str).md",
+                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.text.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "d96cb51dc1e7b88a"
+          }
+        ]
+      },
+      {
+        "id": "e447eeac2a09cc5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf2783cd390de3df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.text.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "d96cb51dc1e7b88a"
           }
         ]
       }
@@ -93,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Типы данных/Strings/Методы Строк/Метод partition()(str).md",
+                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.text.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Типы данных/Strings/Методы Строк/Метод partition()(str).md",
+                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.text.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Типы данных/Strings/Методы Строк/Метод partition()(str).md"
+                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.text.md"
               }
             }
           },
@@ -156,10 +176,15 @@
   },
   "active": "ffa715aa02912f44",
   "lastOpenFiles": [
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Объект Tag bs4.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.get_text.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.text.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Методы BeautifulSoup4.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Модуль BeautifulSoup4.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Настройка BeautifulSoup4.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/BeautifulSoup4.md",
+    "Python/Типы данных/Strings/Методы Строк/Метод partition()(str).md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Объект Tag bs4.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Настройка BeautifulSoup4.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг HTML страницы.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Преобразование HTML в объект BeautifulSoup.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup",
@@ -179,10 +204,6 @@
     "Python/Обработка Исключений/Обработка исключений Python.md",
     "Python/Алгоритмы/Алгоритмы Python.md",
     "Python/Итераторы/Итераторы и Генераторы Python.md",
-    "Python/Хеширование/Хеширование Python.md",
-    "Python/Контекстные менеджеры/Контекстные менеджеры Python.md",
-    "Python/Память в Python/Компьютерная память.md",
-    "Python/Память в Python/Работа с памятью Python.md",
     "Python/Модули/Сторонние модули Python/Модуль requests",
     "Python/Модули/Сторонние модули Python",
     "Парсинг/HTML",
@@ -192,7 +213,6 @@
     "SQL/Функции SQL/Оконные функции",
     "Pasted image 20240620231636.png",
     "SQL/Процедуры",
-    "SQL/Пользовательские Функции",
     "Базы данных/Реляционные БД/SQL/Без названия.canvas"
   ]
 }
