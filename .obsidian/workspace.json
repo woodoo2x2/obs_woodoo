@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Парсинг/Содержимое Responce.md",
+                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Преобразование HTML в объект BeautifulSoup.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Парсинг/Содержимое Responce.md",
+                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Преобразование HTML в объект BeautifulSoup.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Парсинг/Содержимое Responce.md",
+                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Преобразование HTML в объект BeautifulSoup.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Парсинг/Содержимое Responce.md"
+                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Преобразование HTML в объект BeautifulSoup.md"
               }
             }
           },
@@ -156,43 +156,43 @@
   },
   "active": "ffa715aa02912f44",
   "lastOpenFiles": [
-    "Парсинг/Парсинг Python.md",
-    "Парсинг/Содержимое Responce.md",
-    "Парсинг/Статус коды.md",
-    "Python/Модули/Сторонние модули Python/Модуль fakeuseragent.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Модуль BeautifulSoup4.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Преобразование HTML в объект BeautifulSoup.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Настройка BeautifulSoup4.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/BeautifulSoup4.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup",
     "Python/Модули/Сторонние модули Python/Сторонние модули Python.md",
-    "Python/Модули/Сторонние модули Python/Модуль requests/Атрибуты объекта Response.md",
-    "Python/Модули/Сторонние модули Python/Модуль requests/Заголовки headers.md",
-    "Python/Модули/Сторонние модули Python/Модуль requests/Модуль requests.md",
-    "Python/Модули/Сторонние модули Python/Модуль requests/Передача параметров params.md",
-    "Python/Модули/Сторонние модули Python/Модуль requests/Прокси proxies.md",
-    "Python/Модули/Сторонние модули Python/Модуль requests/Таймаут timeout.md",
-    "Python/Модули/Сторонние модули Python/Модуль requests/request.get().md",
-    "Python/Модули/Сторонние модули Python/Модуль requests/requests.md",
-    "Парсинг/HTML/HTML Атрибуты.md",
+    "Python/Модули/Модули Python.md",
     "Python.md",
-    "Парсинг/HTML/Поиск элементов при помощи XPath.md",
+    "Парсинг/HTTP-Adapter.md",
+    "Парсинг/Статус коды.md",
+    "Парсинг/Парсинг Python.md",
+    "Python/Модули/Сторонние модули Python/Модуль requests/Модуль requests.md",
+    "Парсинг/Виды исключений при работе с requests.md",
+    "Парсинг/Содержимое Responce.md",
+    "Парсинг/Проксирование в сессии.md",
+    "Парсинг/Сессия в контексте HTTP.md",
+    "Python/Обработка Исключений/Полезные ссылки Исключения.md",
+    "Парсинг/Работа с исключениями при Парсинге.md",
+    "Python/Обработка Исключений/Обработка исключений Python.md",
+    "Python/Алгоритмы/Алгоритмы Python.md",
+    "Python/Итераторы/Итераторы и Генераторы Python.md",
+    "Python/Хеширование/Хеширование Python.md",
+    "Python/Контекстные менеджеры/Контекстные менеджеры Python.md",
+    "Python/Память в Python/Компьютерная память.md",
+    "Python/Память в Python/Работа с памятью Python.md",
+    "Python/Регулярные выражения/Регулярные выражения Python.md",
+    "Python/Модули/Встроенные модули Python/Встроенные модули Python.md",
     "Python/Модули/Сторонние модули Python/Модуль requests",
     "Python/Модули/Сторонние модули Python",
-    "Парсинг/HTML/Поиск по составным селекторам.md",
-    "Парсинг/HTML/Поиск элементов на странице.md",
-    "Парсинг/HTML/HTML.md",
-    "Парсинг/HTML/Строчные HTML элементы.md",
-    "Парсинг/HTML/Структура Web-Страницы.md",
-    "Парсинг/HTML/Document Object Model (объектная модель документа).md",
-    "Парсинг/HTML/Блочные HTML элементы.md",
     "Парсинг/HTML",
     "Парсинг",
-    "SQL.md",
-    "Базы данных.md",
-    "SQL/Добавление данных/Оператор REPLACE SQL.md",
     "SQL/Функции SQL/Оконные функции/Функции смещения",
     "SQL/Функции SQL/Оконные функции/ранжирующие функции",
     "SQL/Функции SQL/Оконные функции",
     "Pasted image 20240620231636.png",
     "SQL/Процедуры",
     "SQL/Пользовательские Функции",
-    "SQL/Переменные",
     "Базы данных/Реляционные БД/SQL/Без названия.canvas"
   ]
 }

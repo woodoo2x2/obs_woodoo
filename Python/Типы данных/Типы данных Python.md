@@ -23,3 +23,5 @@ Enum:
 
 [[Тип данных enum.Enum]]
 [[Тип данных enum.Flag]]
+
+#Python 

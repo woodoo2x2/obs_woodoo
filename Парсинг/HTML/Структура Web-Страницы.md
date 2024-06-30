@@ -40,7 +40,7 @@ HTML ([HyperText Markup Language](https://ru.wikipedia.org/wiki/HTML)) не яв
 </html>
 ```
 
-Для извлечения текста из тега с идентификатором `text777` с нашего учебного сайта `parsinger.ru/2.1/DOM/index2.html`, мы используем следующий код на Python с помощью библиотек [[Модуль requests]] и [[Модуль BeautifulSoup]]:
+Для извлечения текста из тега с идентификатором `text777` с нашего учебного сайта `parsinger.ru/2.1/DOM/index2.html`, мы используем следующий код на Python с помощью библиотек [[Модуль requests]] и [[Модуль BeautifulSoup4]]:
 
 ```python
 import requests
