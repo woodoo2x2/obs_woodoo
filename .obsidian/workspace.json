@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Парсинг/Статус коды.md",
+                "file": "Парсинг/Содержимое Responce.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Парсинг/Статус коды.md",
+                "file": "Парсинг/Содержимое Responce.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Парсинг/Статус коды.md",
+                "file": "Парсинг/Содержимое Responce.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Парсинг/Статус коды.md"
+                "file": "Парсинг/Содержимое Responce.md"
               }
             }
           },
@@ -156,10 +156,11 @@
   },
   "active": "ffa715aa02912f44",
   "lastOpenFiles": [
-    "Python/Модули/Сторонние модули Python/Модуль fakeuseragent.md",
-    "Парсинг/Статус коды.md",
-    "Python/Модули/Сторонние модули Python/Сторонние модули Python.md",
     "Парсинг/Парсинг Python.md",
+    "Парсинг/Содержимое Responce.md",
+    "Парсинг/Статус коды.md",
+    "Python/Модули/Сторонние модули Python/Модуль fakeuseragent.md",
+    "Python/Модули/Сторонние модули Python/Сторонние модули Python.md",
     "Python/Модули/Сторонние модули Python/Модуль requests/Атрибуты объекта Response.md",
     "Python/Модули/Сторонние модули Python/Модуль requests/Заголовки headers.md",
     "Python/Модули/Сторонние модули Python/Модуль requests/Модуль requests.md",
@@ -185,7 +186,6 @@
     "SQL.md",
     "Базы данных.md",
     "SQL/Добавление данных/Оператор REPLACE SQL.md",
-    "SQL/Язык SQL.md",
     "SQL/Функции SQL/Оконные функции/Функции смещения",
     "SQL/Функции SQL/Оконные функции/ранжирующие функции",
     "SQL/Функции SQL/Оконные функции",
