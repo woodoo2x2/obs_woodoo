@@ -255,3 +255,6 @@ https://yandex.ru/search/?text=WEB Парсинг на python
       
     `year_after=2000`: Параметр `year_after` указывает на то, что нам нужны фильмы, выпущенные после 2000 года.  
     `genre=action`: Параметр `genre` указывает, что нам нужны фильмы в жанре "action" (боевик).
+
+
+#ПарсингPython 

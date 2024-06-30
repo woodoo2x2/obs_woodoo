@@ -1,1 +1,3 @@
 [[Модуль requests]]
+[[Модуль fakeuseragent]]
+

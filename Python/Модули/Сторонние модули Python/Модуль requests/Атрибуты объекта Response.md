@@ -118,3 +118,6 @@ print("Запрос успешен (коды 2xx):", response.ok)
 # reason: Сообщение статуса HTTP (например, "OK", "Not Found").
 print("Сообщение статуса HTTP:", response.reason)
 ```
+
+
+#ПарсингPython 
