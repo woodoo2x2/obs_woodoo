@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Преобразование HTML в объект BeautifulSoup.md",
+                "file": "Python/Типы данных/Strings/Методы Строк/Метод partition()(str).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Преобразование HTML в объект BeautifulSoup.md",
+                "file": "Python/Типы данных/Strings/Методы Строк/Метод partition()(str).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Преобразование HTML в объект BeautifulSoup.md",
+                "file": "Python/Типы данных/Strings/Методы Строк/Метод partition()(str).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Преобразование HTML в объект BeautifulSoup.md"
+                "file": "Python/Типы данных/Strings/Методы Строк/Метод partition()(str).md"
               }
             }
           },
@@ -156,10 +156,12 @@
   },
   "active": "ffa715aa02912f44",
   "lastOpenFiles": [
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Объект Tag bs4.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Модуль BeautifulSoup4.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Преобразование HTML в объект BeautifulSoup.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Настройка BeautifulSoup4.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/BeautifulSoup4.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг HTML страницы.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Преобразование HTML в объект BeautifulSoup.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup",
     "Python/Модули/Сторонние модули Python/Сторонние модули Python.md",
     "Python/Модули/Модули Python.md",
@@ -181,8 +183,6 @@
     "Python/Контекстные менеджеры/Контекстные менеджеры Python.md",
     "Python/Память в Python/Компьютерная память.md",
     "Python/Память в Python/Работа с памятью Python.md",
-    "Python/Регулярные выражения/Регулярные выражения Python.md",
-    "Python/Модули/Встроенные модули Python/Встроенные модули Python.md",
     "Python/Модули/Сторонние модули Python/Модуль requests",
     "Python/Модули/Сторонние модули Python",
     "Парсинг/HTML",
