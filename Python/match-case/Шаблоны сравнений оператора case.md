@@ -49,5 +49,3 @@ match cmd:
     case _:
         print(f"другая команда")
 ```
-
-#Балакирев/Python 

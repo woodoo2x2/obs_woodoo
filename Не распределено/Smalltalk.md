@@ -56,4 +56,3 @@ rectangles := OrderedCollection
   with: (Rectangle left: 10 right: 10 top: 110 bottom: 210).
 aPoint := Point x: 20 y: 20.
 collisions := rectangles select: [:aRect | aRect containsPoint: aPoint].
-#oop

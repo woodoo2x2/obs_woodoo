@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "bfc2630665830d0c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ffa715aa02912f44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.text.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "d96cb51dc1e7b88a"
-          }
-        ]
-      },
-      {
         "id": "e447eeac2a09cc5a",
         "type": "tabs",
         "children": [
@@ -32,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.text.md",
-                "mode": "preview",
+                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг JSON.md",
+                "mode": "source",
                 "source": false
               }
-            },
-            "group": "d96cb51dc1e7b88a"
+            }
           }
         ]
       }
@@ -113,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.text.md",
+                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг JSON.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.text.md",
+                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг JSON.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.text.md"
+                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг JSON.md"
               }
             }
           },
@@ -161,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,45 +153,45 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ffa715aa02912f44",
+  "active": "cf2783cd390de3df",
   "lastOpenFiles": [
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.get_text.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Метод soup.text.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup/Методы BeautifulSoup4.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Модуль BeautifulSoup4.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг CSV.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/BeautifulSoup4.md",
-    "Python/Типы данных/Strings/Методы Строк/Метод partition()(str).md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Объект Tag bs4.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Настройка BeautifulSoup4.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг HTML страницы.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Преобразование HTML в объект BeautifulSoup.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup",
-    "Python/Модули/Сторонние модули Python/Сторонние модули Python.md",
-    "Python/Модули/Модули Python.md",
+    "Python/Работа с Файлами/CSV/CSV.md",
+    "Python/Работа с Файлами/CSV/Формат CSV.md",
+    "Python/Работа с Файлами/CSV/Работа с CSV.md",
+    "Python/Работа с Файлами/CSV/Модуль csv.md",
+    "Python/Работа с Файлами/JSON/JSON.md",
+    "Python/Работа с Файлами/Работа с файлами в Python.md",
+    "Python/Работа с Файлами/JSON/Типы данных JSON.md",
+    "Python/Работа с Файлами/JSON/Формат JSON.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг JSON.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Пагинация.md",
+    "Python/Работа с Файлами/JSON/Кириллица JSON.md",
+    "Python/Работа с Файлами/JSON/Работа с файлами json.md",
+    "Python/Работа с Файлами/JSON/Десериализация JSON.md",
+    "Python/Работа с Файлами/JSON/Сериализация JSON.md",
+    "Python/Модули/Встроенные модули Python/Модуль json.md",
+    "Python/Работа с Файлами/CSV",
+    "Python/Работа с Файлами/JSON",
+    "Python/Работа с Файлами/Работа с файлами.md",
+    "Python/Работа с Файлами/Запись данных в файлы.md",
     "Python.md",
-    "Парсинг/HTTP-Adapter.md",
-    "Парсинг/Статус коды.md",
-    "Парсинг/Парсинг Python.md",
-    "Python/Модули/Сторонние модули Python/Модуль requests/Модуль requests.md",
-    "Парсинг/Виды исключений при работе с requests.md",
-    "Парсинг/Содержимое Responce.md",
-    "Парсинг/Проксирование в сессии.md",
-    "Парсинг/Сессия в контексте HTTP.md",
-    "Python/Обработка Исключений/Полезные ссылки Исключения.md",
-    "Парсинг/Работа с исключениями при Парсинге.md",
-    "Python/Обработка Исключений/Обработка исключений Python.md",
-    "Python/Алгоритмы/Алгоритмы Python.md",
-    "Python/Итераторы/Итераторы и Генераторы Python.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/AJAX.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг табличных данных.md",
+    "Не распределено/Smalltalk.md",
+    "Не распределено/Умные Мужики/Кэй, Алан Кёртис.md",
+    "Python/Алгоритмы/Алгоритмы сортировка списков/Сортировки оболочки.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup",
     "Python/Модули/Сторонние модули Python/Модуль requests",
     "Python/Модули/Сторонние модули Python",
     "Парсинг/HTML",
     "Парсинг",
     "SQL/Функции SQL/Оконные функции/Функции смещения",
     "SQL/Функции SQL/Оконные функции/ранжирующие функции",
-    "SQL/Функции SQL/Оконные функции",
     "Pasted image 20240620231636.png",
-    "SQL/Процедуры",
     "Базы данных/Реляционные БД/SQL/Без названия.canvas"
   ]
 }

@@ -13,7 +13,7 @@
 [[Module Decimal]]
 [[Module Fraction]]
 [[Module heapq]]
-[[Module json]]
+[[Модуль json]]
 [[Module os]]
 [[Module pickle]]
 [[Module pytz]]

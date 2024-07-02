@@ -58,3 +58,5 @@ print(title_tag.text)  # Выведет: Мой сайт
 ```python
 Мой сайт
 ```
+
+#ПарсингPython 
