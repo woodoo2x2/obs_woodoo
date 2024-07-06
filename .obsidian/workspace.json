@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг JSON.md",
+                "file": "Python/Работа с Файлами/JSON/Типы данных JSON.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг JSON.md",
+                "file": "Python/Работа с Файлами/JSON/Типы данных JSON.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг JSON.md",
+                "file": "Python/Работа с Файлами/JSON/Типы данных JSON.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг JSON.md"
+                "file": "Python/Работа с Файлами/JSON/Типы данных JSON.md"
               }
             }
           },
@@ -155,6 +155,16 @@
   },
   "active": "cf2783cd390de3df",
   "lastOpenFiles": [
+    "Python/Работа с Файлами/JSON/Формат JSON.md",
+    "Python/Работа с Файлами/JSON/JSON.md",
+    "Python/Работа с Файлами/JSON/Типы данных JSON.md",
+    "Python/Работа с Файлами/JSON/Сериализация JSON.md",
+    "Python/Работа с Файлами/JSON/Десериализация JSON.md",
+    "Python/Работа с Файлами/JSON/Кириллица JSON.md",
+    "Python/Работа с Файлами/Работа с файлами в Python.md",
+    "Python/Работа с Файлами/Позиция в файле.md",
+    "Python/Работа с Файлами/Работа с файлами.md",
+    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг JSON.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Модуль BeautifulSoup4.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг CSV.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/BeautifulSoup4.md",
@@ -162,27 +172,17 @@
     "Python/Работа с Файлами/CSV/Формат CSV.md",
     "Python/Работа с Файлами/CSV/Работа с CSV.md",
     "Python/Работа с Файлами/CSV/Модуль csv.md",
-    "Python/Работа с Файлами/JSON/JSON.md",
-    "Python/Работа с Файлами/Работа с файлами в Python.md",
-    "Python/Работа с Файлами/JSON/Типы данных JSON.md",
-    "Python/Работа с Файлами/JSON/Формат JSON.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг JSON.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Пагинация.md",
-    "Python/Работа с Файлами/JSON/Кириллица JSON.md",
     "Python/Работа с Файлами/JSON/Работа с файлами json.md",
-    "Python/Работа с Файлами/JSON/Десериализация JSON.md",
-    "Python/Работа с Файлами/JSON/Сериализация JSON.md",
     "Python/Модули/Встроенные модули Python/Модуль json.md",
     "Python/Работа с Файлами/CSV",
     "Python/Работа с Файлами/JSON",
-    "Python/Работа с Файлами/Работа с файлами.md",
     "Python/Работа с Файлами/Запись данных в файлы.md",
     "Python.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/AJAX.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг табличных данных.md",
     "Не распределено/Smalltalk.md",
     "Не распределено/Умные Мужики/Кэй, Алан Кёртис.md",
-    "Python/Алгоритмы/Алгоритмы сортировка списков/Сортировки оболочки.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup",
     "Python/Модули/Сторонние модули Python/Модуль requests",
