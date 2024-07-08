@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Работа с Файлами/JSON/Типы данных JSON.md",
+                "file": "Python/Парсинг/Асинхронный парсинг/Асинхронный парсинг.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "379b91b7c54b347c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Парсинг/Асинхронный парсинг/Загрузка картинок с помощью aiofiles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,11 +106,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Работа с Файлами/JSON/Типы данных JSON.md",
+                "file": "Python/Парсинг/Асинхронный парсинг/Загрузка картинок с помощью aiofiles.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Работа с Файлами/JSON/Типы данных JSON.md",
+                "file": "Python/Парсинг/Асинхронный парсинг/Загрузка картинок с помощью aiofiles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Работа с Файлами/JSON/Типы данных JSON.md"
+                "file": "Python/Парсинг/Асинхронный парсинг/Загрузка картинок с помощью aiofiles.md"
               }
             }
           },
@@ -141,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,44 +166,44 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "cf2783cd390de3df",
+  "active": "379b91b7c54b347c",
   "lastOpenFiles": [
-    "Python/Работа с Файлами/JSON/Формат JSON.md",
-    "Python/Работа с Файлами/JSON/JSON.md",
-    "Python/Работа с Файлами/JSON/Типы данных JSON.md",
-    "Python/Работа с Файлами/JSON/Сериализация JSON.md",
-    "Python/Работа с Файлами/JSON/Десериализация JSON.md",
-    "Python/Работа с Файлами/JSON/Кириллица JSON.md",
-    "Python/Работа с Файлами/Работа с файлами в Python.md",
-    "Python/Работа с Файлами/Позиция в файле.md",
-    "Python/Работа с Файлами/Работа с файлами.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг JSON.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Модуль BeautifulSoup4.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг CSV.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/BeautifulSoup4.md",
-    "Python/Работа с Файлами/CSV/CSV.md",
-    "Python/Работа с Файлами/CSV/Формат CSV.md",
-    "Python/Работа с Файлами/CSV/Работа с CSV.md",
-    "Python/Работа с Файлами/CSV/Модуль csv.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Пагинация.md",
-    "Python/Работа с Файлами/JSON/Работа с файлами json.md",
-    "Python/Модули/Встроенные модули Python/Модуль json.md",
+    "Python/Парсинг/Асинхронный парсинг/Асинхронный парсинг.md",
+    "Python/Парсинг/Асинхронный парсинг/Загрузка картинок с помощью aiofiles.md",
+    "Python/Парсинг/Асинхронный парсинг/Асинхронный запрос.md",
+    "Python/Парсинг/Асинхронный парсинг/Загрузка видео с помощью aiofiles.md",
+    "Python/Парсинг/Асинхронный парсинг/Загрузка видео с помощью асинхронности.md",
+    "Python/Парсинг/Асинхронный парсинг/Обработка файла с помощью aiofiles.md",
+    "Python/Модули/Сторонние модули Python/Модуль aiofiles.md",
+    "Python/Модули/Сторонние модули Python/Сторонние модули Python.md",
+    "Python/Парсинг/Асинхронный парсинг/Эталонный асинхронный парсер.md",
+    "Python/Парсинг/Асинхронный парсинг/Повтор неуспешного подключения.md",
+    "Python/Парсинг/Асинхронный парсинг/Асинхронный парсинг с bs4.md",
+    "Python/Парсинг/Парсинг Python.md",
+    "Python/Асинхронность/Асинхронность.md",
+    "Python/Парсинг/Проксирование в сессии.md",
+    "Python/Парсинг/Работа с исключениями при Парсинге.md",
+    "Python/match-case/match-case c Кортежами и списками.md",
+    "Python/match-case/match-case.md",
+    "Python/match-case/Шаблоны сравнений оператора case.md",
+    "Python/match-case/Шаблоны проверки типов.md",
+    "Python/match-case/Конструкция match-case.md",
+    "Python/Контекстные менеджеры/Контекстные менеджеры Python.md",
+    "Python/Контекстные менеджеры/Реентерабельные контекстные менеджеры.md",
+    "Python/Контекстные менеджеры/Одноразовые контекстные менеджеры.md",
+    "Python/Контекстные менеджеры/Многоразовые контекстные менеджеры.md",
+    "Python/Типы данных/Типы данных Python.md",
+    "Python/Типы данных/!Тип данных collections.defaultdict.md",
+    "Python/Парсинг/Асинхронный парсинг",
+    "Python/Асинхронность",
+    "Python/Парсинг/Selenium",
     "Python/Работа с Файлами/CSV",
     "Python/Работа с Файлами/JSON",
-    "Python/Работа с Файлами/Запись данных в файлы.md",
-    "Python.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/AJAX.md",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Парсинг табличных данных.md",
-    "Не распределено/Smalltalk.md",
-    "Не распределено/Умные Мужики/Кэй, Алан Кёртис.md",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup",
     "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup",
     "Python/Модули/Сторонние модули Python/Модуль requests",
     "Python/Модули/Сторонние модули Python",
-    "Парсинг/HTML",
-    "Парсинг",
-    "SQL/Функции SQL/Оконные функции/Функции смещения",
-    "SQL/Функции SQL/Оконные функции/ранжирующие функции",
+    "Python/Парсинг/HTML",
     "Pasted image 20240620231636.png",
     "Базы данных/Реляционные БД/SQL/Без названия.canvas"
   ]

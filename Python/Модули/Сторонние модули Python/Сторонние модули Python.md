@@ -1,3 +1,5 @@
 [[Модуль requests]]
 [[Модуль fakeuseragent]]
 [[Модуль BeautifulSoup4]]
+[[Модуль aiohttp]]
+[[Модуль aiofiles]]

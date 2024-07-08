@@ -28,5 +28,6 @@
 [[Модуль contextlib]]
 [[Модуль collections.abc]]
 [[Модуль sqlite3]]
+[[Модуль asyncio]]
 
 [[Полезные ссылки по встроенным библиотекам Python]]
