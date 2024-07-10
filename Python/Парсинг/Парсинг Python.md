@@ -10,5 +10,8 @@
 [[HTTP-Adapter]]
 [[Selenium]]
 [[Асинхронный парсинг]]
+Парсинг телеграмм:
 
+[[Модуль pyrogram]]
+[[Модуль telethon]]
 #ПарсингPython

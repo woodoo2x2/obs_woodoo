@@ -3,3 +3,5 @@
 [[Модуль BeautifulSoup4]]
 [[Модуль aiohttp]]
 [[Модуль aiofiles]]
+[[Модуль pyrogram]]
+[[Модуль telethon]]
