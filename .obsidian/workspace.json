@@ -23,12 +23,8 @@
             "id": "379b91b7c54b347c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Парсинг/Асинхронный парсинг/Загрузка картинок с помощью aiofiles.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Парсинг/Асинхронный парсинг/Загрузка картинок с помощью aiofiles.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Парсинг/Асинхронный парсинг/Загрузка картинок с помощью aiofiles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Парсинг/Асинхронный парсинг/Загрузка картинок с помощью aiofiles.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +160,8 @@
   },
   "active": "379b91b7c54b347c",
   "lastOpenFiles": [
-    "Python/Парсинг/Асинхронный парсинг/Асинхронный парсинг.md",
     "Python/Парсинг/Асинхронный парсинг/Загрузка картинок с помощью aiofiles.md",
+    "Python/Парсинг/Асинхронный парсинг/Асинхронный парсинг.md",
     "Python/Парсинг/Асинхронный парсинг/Асинхронный запрос.md",
     "Python/Парсинг/Асинхронный парсинг/Загрузка видео с помощью aiofiles.md",
     "Python/Парсинг/Асинхронный парсинг/Загрузка видео с помощью асинхронности.md",
