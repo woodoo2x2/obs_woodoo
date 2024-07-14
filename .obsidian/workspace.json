@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Парсинг/Капча/Обход простой капчи.md",
+                "file": "Python/Асинхронность/Основные элементы asyncio.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Парсинг/Капча/Обход простой капчи.md",
+                "file": "Python/Асинхронность/Основные элементы asyncio.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Парсинг/Капча/Обход простой капчи.md",
+                "file": "Python/Асинхронность/Основные элементы asyncio.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Парсинг/Капча/Обход простой капчи.md"
+                "file": "Python/Асинхронность/Основные элементы asyncio.md"
               }
             }
           },
@@ -168,8 +168,22 @@
   },
   "active": "379b91b7c54b347c",
   "lastOpenFiles": [
-    "Python/Парсинг/Капча/CAPTCHA.md",
+    "Python/Асинхронность/Асинхронность.md",
+    "Python/Асинхронность/Основные элементы asyncio.md",
+    "Python/Асинхронность/GIL (Global Interpreter Lock).md",
+    "Python/Асинхронность/Основные понятия/Введение в асинхронность.md",
+    "Python/Асинхронность/Основные понятия/IO bound и CPU bound.md",
+    "Python/Асинхронность/Основные понятия/Основные преимущества asyncio.md",
+    "Python/Асинхронность/Основные понятия/Применение асинхронности.md",
+    "Python/Модули/Встроенные модули Python/Модуль asyncio.md",
+    "Python/Асинхронность/Основные понятия",
+    "Telegram/Бот Телеграм/Структура проекта.md",
+    "Telegram/Бот Телеграм/Написание бота Telegram.md",
+    "Telegram/Бот Телеграм/Начало работы.md",
+    "Telegram/Бот Телеграм",
+    "Telegram/Telegram.md",
     "Python/Парсинг/Капча/Обход простой капчи.md",
+    "Python/Парсинг/Капча/CAPTCHA.md",
     "Python/Парсинг/Капча/Настройки для работы с капчей.md",
     "Python/Парсинг/Капча/Работа с CAPTCHA.md",
     "Python/Парсинг/Капча",
@@ -184,26 +198,12 @@
     "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг данных пользователя telethon.md",
     "Python/Модули/Сторонние модули Python/Модуль telethon/Основные методы telethon.md",
     "Python/Модули/Сторонние модули Python/Модуль telethon",
-    "Python/Модули/Сторонние модули Python/Без названия.md",
     "Python/Модули/Без названия",
-    "Telegram/Telegram.md",
-    "Python/Модули/Сторонние модули Python/Модуль pyrogram/Скачивание медиа из сообщений.md",
-    "Python/Модули/Сторонние модули Python/Модуль pyrogram/Модуль pyrogram.md",
-    "Python/Модули/Сторонние модули Python/Модуль pyrogram/Pyrogram.md",
-    "Python/Модули/Сторонние модули Python/Модуль pyrogram/Парсинг сообщений pyrogram.md",
-    "Python/Модули/Сторонние модули Python/Модуль pyrogram/Поиск конкретных сообщений.md",
-    "Python/Модули/Сторонние модули Python/Модуль pyrogram/Объект чата pyrogram.md",
-    "Python/Модули/Сторонние модули Python/Модуль pyrogram/Старт сессии pyrogram.md",
-    "Python/Модули/Сторонние модули Python/Модуль pyrogram/Основные методы pyrogram.md",
-    "Python/Модули/Сторонние модули Python/Сторонние модули Python.md",
-    "Python/Модули/Модули Python.md",
     "Python/Модули/Сторонние модули Python/Модуль pyrogram",
     "Telegram",
     "Python/Парсинг/Асинхронный парсинг",
     "Python/Асинхронность",
     "Python/Парсинг/Selenium",
-    "Python/Работа с Файлами/CSV",
-    "Python/Работа с Файлами/JSON",
     "Pasted image 20240620231636.png",
     "Базы данных/Реляционные БД/SQL/Без названия.canvas"
   ]
