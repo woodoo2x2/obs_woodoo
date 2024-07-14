@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Асинхронность/Основные элементы asyncio.md",
+                "file": "Python/Асинхронность/Awaitable объекты/Корутины.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Асинхронность/Основные элементы asyncio.md",
+                "file": "Python/Асинхронность/Awaitable объекты/Корутины.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Асинхронность/Основные элементы asyncio.md",
+                "file": "Python/Асинхронность/Awaitable объекты/Корутины.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Асинхронность/Основные элементы asyncio.md"
+                "file": "Python/Асинхронность/Awaitable объекты/Корутины.md"
               }
             }
           },
@@ -168,9 +168,11 @@
   },
   "active": "379b91b7c54b347c",
   "lastOpenFiles": [
-    "Python/Асинхронность/Асинхронность.md",
     "Python/Асинхронность/Основные элементы asyncio.md",
+    "Python/Асинхронность/Awaitable объекты/Корутины.md",
+    "Python/Асинхронность/Awaitable объекты",
     "Python/Асинхронность/GIL (Global Interpreter Lock).md",
+    "Python/Асинхронность/Асинхронность.md",
     "Python/Асинхронность/Основные понятия/Введение в асинхронность.md",
     "Python/Асинхронность/Основные понятия/IO bound и CPU bound.md",
     "Python/Асинхронность/Основные понятия/Основные преимущества asyncio.md",
@@ -196,14 +198,12 @@
     "Python/Модули/Сторонние модули Python/Модуль telethon/telethon.md",
     "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг участников чата telethon.md",
     "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг данных пользователя telethon.md",
-    "Python/Модули/Сторонние модули Python/Модуль telethon/Основные методы telethon.md",
     "Python/Модули/Сторонние модули Python/Модуль telethon",
     "Python/Модули/Без названия",
     "Python/Модули/Сторонние модули Python/Модуль pyrogram",
     "Telegram",
     "Python/Парсинг/Асинхронный парсинг",
     "Python/Асинхронность",
-    "Python/Парсинг/Selenium",
     "Pasted image 20240620231636.png",
     "Базы данных/Реляционные БД/SQL/Без названия.canvas"
   ]
