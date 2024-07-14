@@ -4,4 +4,4 @@
 [[Модуль aiohttp]]
 [[Модуль aiofiles]]
 [[Модуль pyrogram]]
-[[Модуль telethon]]
+[[telethon]]

@@ -1,2 +1,2 @@
 [[Модуль pyrogram]]
-[[Модуль telethon]]
+[[telethon]]

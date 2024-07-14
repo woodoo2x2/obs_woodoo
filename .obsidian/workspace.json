@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль pyrogram/Скачивание медиа из сообщений.md",
+                "file": "Python/Парсинг/Капча/Обход простой капчи.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль pyrogram/Скачивание медиа из сообщений.md",
+                "file": "Python/Парсинг/Капча/Обход простой капчи.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль pyrogram/Скачивание медиа из сообщений.md",
+                "file": "Python/Парсинг/Капча/Обход простой капчи.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Модули/Сторонние модули Python/Модуль pyrogram/Скачивание медиа из сообщений.md"
+                "file": "Python/Парсинг/Капча/Обход простой капчи.md"
               }
             }
           },
@@ -168,42 +168,42 @@
   },
   "active": "379b91b7c54b347c",
   "lastOpenFiles": [
-    "Python/Модули/Сторонние модули Python/Модуль pyrogram/Модуль pyrogram.md",
+    "Python/Парсинг/Капча/CAPTCHA.md",
+    "Python/Парсинг/Капча/Обход простой капчи.md",
+    "Python/Парсинг/Капча/Настройки для работы с капчей.md",
+    "Python/Парсинг/Капча/Работа с CAPTCHA.md",
+    "Python/Парсинг/Капча",
+    "Python/Парсинг/Парсинг Python.md",
+    "Python/Модули/Сторонние модули Python/Модуль telethon/Модуль telethon.md",
+    "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг сообщений группы telethon.md",
+    "Python.md",
+    "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг описания профиля участников группы telethon.md",
+    "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг фото участников группы.md",
+    "Python/Модули/Сторонние модули Python/Модуль telethon/telethon.md",
+    "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг участников чата telethon.md",
+    "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг данных пользователя telethon.md",
+    "Python/Модули/Сторонние модули Python/Модуль telethon/Основные методы telethon.md",
+    "Python/Модули/Сторонние модули Python/Модуль telethon",
+    "Python/Модули/Сторонние модули Python/Без названия.md",
+    "Python/Модули/Без названия",
+    "Telegram/Telegram.md",
     "Python/Модули/Сторонние модули Python/Модуль pyrogram/Скачивание медиа из сообщений.md",
+    "Python/Модули/Сторонние модули Python/Модуль pyrogram/Модуль pyrogram.md",
     "Python/Модули/Сторонние модули Python/Модуль pyrogram/Pyrogram.md",
     "Python/Модули/Сторонние модули Python/Модуль pyrogram/Парсинг сообщений pyrogram.md",
     "Python/Модули/Сторонние модули Python/Модуль pyrogram/Поиск конкретных сообщений.md",
     "Python/Модули/Сторонние модули Python/Модуль pyrogram/Объект чата pyrogram.md",
     "Python/Модули/Сторонние модули Python/Модуль pyrogram/Старт сессии pyrogram.md",
     "Python/Модули/Сторонние модули Python/Модуль pyrogram/Основные методы pyrogram.md",
-    "Telegram/Telegram.md",
-    "Python/Парсинг/Парсинг Python.md",
     "Python/Модули/Сторонние модули Python/Сторонние модули Python.md",
     "Python/Модули/Модули Python.md",
-    "Python/Функции/Func/Декораторы/Декораторы.md",
     "Python/Модули/Сторонние модули Python/Модуль pyrogram",
-    "Python.md",
     "Telegram",
-    "Python/Парсинг/Асинхронный парсинг/Загрузка картинок с помощью aiofiles.md",
-    "Python/Парсинг/Асинхронный парсинг/Асинхронный парсинг.md",
-    "Python/Парсинг/Асинхронный парсинг/Асинхронный запрос.md",
-    "Python/Парсинг/Асинхронный парсинг/Загрузка видео с помощью aiofiles.md",
-    "Python/Парсинг/Асинхронный парсинг/Загрузка видео с помощью асинхронности.md",
-    "Python/Парсинг/Асинхронный парсинг/Обработка файла с помощью aiofiles.md",
-    "Python/Модули/Сторонние модули Python/Модуль aiofiles.md",
-    "Python/Парсинг/Асинхронный парсинг/Эталонный асинхронный парсер.md",
-    "Python/Парсинг/Асинхронный парсинг/Повтор неуспешного подключения.md",
-    "Python/Парсинг/Асинхронный парсинг/Асинхронный парсинг с bs4.md",
-    "Python/Асинхронность/Асинхронность.md",
-    "Python/Парсинг/Проксирование в сессии.md",
     "Python/Парсинг/Асинхронный парсинг",
     "Python/Асинхронность",
     "Python/Парсинг/Selenium",
     "Python/Работа с Файлами/CSV",
     "Python/Работа с Файлами/JSON",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup/Методы BeautifulSoup",
-    "Python/Модули/Сторонние модули Python/Модуль BeautifulSoup",
-    "Python/Модули/Сторонние модули Python/Модуль requests",
     "Pasted image 20240620231636.png",
     "Базы данных/Реляционные БД/SQL/Без названия.canvas"
   ]

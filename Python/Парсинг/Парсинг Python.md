@@ -10,8 +10,11 @@
 [[HTTP-Adapter]]
 [[Selenium]]
 [[Асинхронный парсинг]]
+[[CAPTCHA]]
 Парсинг телеграмм:
 
 [[Модуль pyrogram]]
-[[Модуль telethon]]
+[[telethon]]
+
+
 #ПарсингPython
