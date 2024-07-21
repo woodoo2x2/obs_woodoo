@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Асинхронность/Awaitable объекты/Awaitable объекты.md",
+                "file": "Python/Асинхронность/Awaitable объекты/Event-loop (Цикл событий).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Асинхронность/Awaitable объекты/Awaitable объекты.md",
+                "file": "Python/Асинхронность/Awaitable объекты/Event-loop (Цикл событий).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Асинхронность/Awaitable объекты/Awaitable объекты.md",
+                "file": "Python/Асинхронность/Awaitable объекты/Event-loop (Цикл событий).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Асинхронность/Awaitable объекты/Awaitable объекты.md"
+                "file": "Python/Асинхронность/Awaitable объекты/Event-loop (Цикл событий).md"
               }
             }
           },
@@ -168,16 +168,18 @@
   },
   "active": "379b91b7c54b347c",
   "lastOpenFiles": [
-    "Python/Асинхронность/Awaitable объекты/Объекты Future.md",
-    "Python/Асинхронность/Асинхронность.md",
+    "Python/Асинхронность/Awaitable объекты/Ключевое слово await.md",
+    "Python/Асинхронность/Awaitable объекты/Event-loop (Цикл событий).md",
     "Python/Асинхронность/Awaitable объекты/Awaitable объекты.md",
+    "Python/Асинхронность/Асинхронность.md",
+    "Python/Асинхронность/Основные понятия/Введение в асинхронность.md",
+    "Python/Асинхронность/Awaitable объекты/Объекты Future.md",
     "Python/Асинхронность/Awaitable объекты/Task (Задачи).md",
     "Python/Асинхронность/Awaitable объекты/Корутины.md",
     "Python/Асинхронность/Основные элементы asyncio.md",
     "Python/Асинхронность/Основные понятия/Основные преимущества asyncio.md",
     "Python/Асинхронность/Awaitable объекты",
     "Python/Асинхронность/GIL (Global Interpreter Lock).md",
-    "Python/Асинхронность/Основные понятия/Введение в асинхронность.md",
     "Python/Асинхронность/Основные понятия/IO bound и CPU bound.md",
     "Python/Асинхронность/Основные понятия/Применение асинхронности.md",
     "Python/Модули/Встроенные модули Python/Модуль asyncio.md",
@@ -196,8 +198,6 @@
     "Python/Модули/Сторонние модули Python/Модуль telethon/Модуль telethon.md",
     "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг сообщений группы telethon.md",
     "Python.md",
-    "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг описания профиля участников группы telethon.md",
-    "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг фото участников группы.md",
     "Python/Модули/Сторонние модули Python/Модуль telethon",
     "Python/Модули/Без названия",
     "Python/Модули/Сторонние модули Python/Модуль pyrogram",
