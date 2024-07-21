@@ -4,4 +4,5 @@
 [[Модуль aiohttp]]
 [[Модуль aiofiles]]
 [[Модуль pyrogram]]
+[[Python/Модули/Сторонние модули Python/Модуль asyncio/Модуль asyncio]]
 [[telethon]]

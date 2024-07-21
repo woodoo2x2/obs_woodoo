@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Парсинг/Асинхронный парсинг/Асинхронный парсинг.md",
-                "mode": "source",
+                "file": "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.sleep().md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Асинхронность/Awaitable объекты/Event-loop (Цикл событий).md",
+                "file": "Python/Модули/Встроенные модули Python/Модуль asyncio/Модуль asyncio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Асинхронность/Awaitable объекты/Event-loop (Цикл событий).md",
+                "file": "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.sleep().md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Асинхронность/Awaitable объекты/Event-loop (Цикл событий).md",
+                "file": "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.sleep().md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Асинхронность/Awaitable объекты/Event-loop (Цикл событий).md"
+                "file": "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.sleep().md"
               }
             }
           },
@@ -166,15 +165,32 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "379b91b7c54b347c",
+  "active": "cf2783cd390de3df",
   "lastOpenFiles": [
-    "Python/Асинхронность/Awaitable объекты/Ключевое слово await.md",
-    "Python/Асинхронность/Awaitable объекты/Event-loop (Цикл событий).md",
-    "Python/Асинхронность/Awaitable объекты/Awaitable объекты.md",
+    "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Методы asyncio.md",
+    "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.sleep().md",
+    "Python/Модули/Встроенные модули Python/Модуль asyncio/Модуль asyncio.md",
+    "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.run().md",
+    "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio",
     "Python/Асинхронность/Асинхронность.md",
+    "Python/Асинхронность/Awaitable объекты/Task (Задачи).md",
+    "Python/Модули/Встроенные модули Python/Встроенные модули Python.md",
+    "Python/Парсинг/Асинхронный парсинг/Асинхронный парсинг.md",
+    "Python/Модули/Встроенные модули Python/Модуль asyncio",
+    "Python/Модули/Сторонние модули Python/Модуль asyncio/Модуль asyncio.md",
+    "Python/Парсинг/Асинхронный парсинг/Асинхронный парсинг с прокси.md",
+    "Python/Модули/Сторонние модули Python/Сторонние модули Python.md",
+    "Python/Модули/Сторонние модули Python/Модуль asyncio",
+    "Python/Асинхронность/Механизмы работы с asyncio/Механизмы работы с asyncio.md",
+    "Python/Асинхронность/Механизмы работы с asyncio/Механизм Long Polling.md",
+    "Python/Асинхронность/Механизмы работы с asyncio/Механизм Interrupts.md",
+    "Python/Асинхронность/Механизмы работы с asyncio/Механизм Polling.md",
+    "Python/Асинхронность/Awaitable объекты/Event-loop (Цикл событий).md",
+    "Python/Асинхронность/Механизмы работы с asyncio",
+    "Python/Асинхронность/Awaitable объекты/Ключевое слово await.md",
+    "Python/Асинхронность/Awaitable объекты/Awaitable объекты.md",
     "Python/Асинхронность/Основные понятия/Введение в асинхронность.md",
     "Python/Асинхронность/Awaitable объекты/Объекты Future.md",
-    "Python/Асинхронность/Awaitable объекты/Task (Задачи).md",
     "Python/Асинхронность/Awaitable объекты/Корутины.md",
     "Python/Асинхронность/Основные элементы asyncio.md",
     "Python/Асинхронность/Основные понятия/Основные преимущества asyncio.md",
@@ -182,28 +198,11 @@
     "Python/Асинхронность/GIL (Global Interpreter Lock).md",
     "Python/Асинхронность/Основные понятия/IO bound и CPU bound.md",
     "Python/Асинхронность/Основные понятия/Применение асинхронности.md",
-    "Python/Модули/Встроенные модули Python/Модуль asyncio.md",
     "Python/Асинхронность/Основные понятия",
-    "Telegram/Бот Телеграм/Структура проекта.md",
-    "Telegram/Бот Телеграм/Написание бота Telegram.md",
-    "Telegram/Бот Телеграм/Начало работы.md",
     "Telegram/Бот Телеграм",
-    "Telegram/Telegram.md",
-    "Python/Парсинг/Капча/Обход простой капчи.md",
-    "Python/Парсинг/Капча/CAPTCHA.md",
-    "Python/Парсинг/Капча/Настройки для работы с капчей.md",
-    "Python/Парсинг/Капча/Работа с CAPTCHA.md",
     "Python/Парсинг/Капча",
-    "Python/Парсинг/Парсинг Python.md",
-    "Python/Модули/Сторонние модули Python/Модуль telethon/Модуль telethon.md",
-    "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг сообщений группы telethon.md",
-    "Python.md",
     "Python/Модули/Сторонние модули Python/Модуль telethon",
     "Python/Модули/Без названия",
-    "Python/Модули/Сторонние модули Python/Модуль pyrogram",
-    "Telegram",
-    "Python/Парсинг/Асинхронный парсинг",
-    "Python/Асинхронность",
     "Pasted image 20240620231636.png",
     "Базы данных/Реляционные БД/SQL/Без названия.canvas"
   ]
