@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Асинхронность/Awaitable объекты/Корутины.md",
+                "file": "Python/Асинхронность/Awaitable объекты/Task (Задачи).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Асинхронность/Awaitable объекты/Корутины.md",
+                "file": "Python/Асинхронность/Awaitable объекты/Task (Задачи).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Асинхронность/Awaitable объекты/Корутины.md",
+                "file": "Python/Асинхронность/Awaitable объекты/Task (Задачи).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Асинхронность/Awaitable объекты/Корутины.md"
+                "file": "Python/Асинхронность/Awaitable объекты/Task (Задачи).md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "379b91b7c54b347c",
   "lastOpenFiles": [
-    "Python/Асинхронность/Основные элементы asyncio.md",
     "Python/Асинхронность/Awaitable объекты/Корутины.md",
+    "Python/Асинхронность/Awaitable объекты/Task (Задачи).md",
+    "Python/Асинхронность/Основные элементы asyncio.md",
     "Python/Асинхронность/Awaitable объекты",
     "Python/Асинхронность/GIL (Global Interpreter Lock).md",
     "Python/Асинхронность/Асинхронность.md",
@@ -197,7 +198,6 @@
     "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг фото участников группы.md",
     "Python/Модули/Сторонние модули Python/Модуль telethon/telethon.md",
     "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг участников чата telethon.md",
-    "Python/Модули/Сторонние модули Python/Модуль telethon/Парсинг данных пользователя telethon.md",
     "Python/Модули/Сторонние модули Python/Модуль telethon",
     "Python/Модули/Без названия",
     "Python/Модули/Сторонние модули Python/Модуль pyrogram",
