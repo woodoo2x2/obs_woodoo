@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.sleep().md",
-                "mode": "preview",
+                "file": "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.create_task().md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.sleep().md",
+                "file": "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.create_task().md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.sleep().md",
+                "file": "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.create_task().md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.sleep().md"
+                "file": "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.create_task().md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "cf2783cd390de3df",
   "lastOpenFiles": [
-    "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Методы asyncio.md",
     "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.sleep().md",
+    "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.create_task().md",
+    "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Методы asyncio.md",
     "Python/Модули/Встроенные модули Python/Модуль asyncio/Модуль asyncio.md",
     "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio/Метод asyncio.run().md",
     "Python/Модули/Встроенные модули Python/Модуль asyncio/Методы asyncio",
@@ -197,7 +198,6 @@
     "Python/Асинхронность/Awaitable объекты",
     "Python/Асинхронность/GIL (Global Interpreter Lock).md",
     "Python/Асинхронность/Основные понятия/IO bound и CPU bound.md",
-    "Python/Асинхронность/Основные понятия/Применение асинхронности.md",
     "Python/Асинхронность/Основные понятия",
     "Telegram/Бот Телеграм",
     "Python/Парсинг/Капча",
